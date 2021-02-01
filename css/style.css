@@ -171,6 +171,32 @@ footer
 /* when screen is small */
 @media only screen and (max-width:900px) 
 {
+    
+    .rr
+{
+    height: 45rem;
+    
+}
+    .btnright
+    {
+    right: 0px;
+    }
+    .btnleft
+{
+
+        left: 0px;
+        
+}
+    #header
+    {
+        height: 80vh;
+    }
+    .slider img
+    {
+        margin-top: -30%;
+        width: 100%;
+        height: 70vh;
+    }
     .slider img
     {
         margin-top: -30%;
